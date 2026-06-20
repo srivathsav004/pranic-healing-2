@@ -37,18 +37,18 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#principles" className="hover:text-[#D4AF37] transition-colors text-slate-300">
-                  Key Healing Principles
-                </a>
-              </li>
-              <li>
                 <a href="#workshops" className="hover:text-[#D4AF37] transition-colors text-slate-300">
                   Workshop Curriculum
                 </a>
               </li>
               <li>
-                <a href="#benefits" className="hover:text-[#D4AF37] transition-colors text-slate-300">
-                  Energetic Wellness Benefits
+                <a href="#instructor" className="hover:text-[#D4AF37] transition-colors text-slate-300">
+                  Licensed Faculty
+                </a>
+              </li>
+              <li>
+                <a href="#faq" className="hover:text-[#D4AF37] transition-colors text-slate-300">
+                  Technical FAQ
                 </a>
               </li>
             </ul>

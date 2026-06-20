@@ -34,12 +34,12 @@ export function Hero() {
         {/* Left Column: Text & CTAs */}
         <div className="lg:col-span-7 flex flex-col justify-center text-left">
           
-          <Reveal delay={0.1} yOffset={20}>
+          {/* <Reveal delay={0.1} yOffset={20}>
             <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-[#0F766E]/5 text-[#0F766E] rounded-full text-xs font-mono font-semibold tracking-wider uppercase mb-5 sm:mb-6">
               <Sparkles className="w-3.5 h-3.5" />
               <span>Certified Professional Training</span>
             </div>
-          </Reveal>
+          </Reveal> */}
 
           <Reveal delay={0.2} yOffset={30}>
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl font-normal text-[#1E1B4B] tracking-tight leading-[1.1] mb-6">

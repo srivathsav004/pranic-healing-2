@@ -14,8 +14,8 @@ export const testimonialsData: Testimonial[] = [
     name: "Dr. Elena Rostova",
     role: "Integrative Health Consultant",
     organization: "Elysian Wellness Group",
-    quote: "According to my experience, integrating these energy hygiene protocols has been revolutionary for preventing practitioner burnout. Learning to sweep away negative ambient fields after long rounds has maintained my daily vitality.",
-    achievement: "Decreased ambient stress, increased vitality",
+    quote: "Integrating these energy hygiene protocols was revolutionary for preventing burnout. Discharging ambient stress after client sessions has restored my daily vitality.",
+    achievement: "Dramatically lower stress, fresh energy",
     rating: 5
   },
   {
@@ -23,8 +23,8 @@ export const testimonialsData: Testimonial[] = [
     name: "Marc Vandemeer",
     role: "Senior UX Director",
     organization: "Siren Creative Technology",
-    quote: "The systematic protocols taught in the Basic workshop felt extremely logical to my analytical mind. There are no mystical assumptions—it is a clear, repeatable set of steps for stress-neutralization and focus.",
-    achievement: "Improved focal depth and workplace clarity",
+    quote: "The systematic protocols are incredibly logical. No vague metaphors—just a highly repeatable, step-by-step framework for stress-neutralization.",
+    achievement: "Greater mental clarity and design focus",
     rating: 5
   },
   {
@@ -32,8 +32,8 @@ export const testimonialsData: Testimonial[] = [
     name: "Sarah Jenkins",
     role: "Certified Yoga Instructor & Educator",
     organization: "Prana and Flow Academy",
-    quote: "Understanding the detailed anatomy of the 11 major chakras completely changed how I align my posture and guide pranayama. The teachings offer a pristine structure to what many traditional systems only describe in metaphors.",
-    achievement: "Deeper alignment of physical and subtle energy systems",
+    quote: "Understanding the detailed anatomy of the 11 major chakras changed everything. The course offers physical structure to what other systems describe only in abstract.",
+    achievement: "Deeper physical and energetic alignment",
     rating: 5
   }
 ];

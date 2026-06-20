@@ -64,15 +64,12 @@ export function Instructor() {
             </Reveal>
 
             <Reveal delay={0.2} yOffset={20} className="text-slate-600 font-sans text-sm sm:text-base leading-relaxed space-y-6">
-              <p>
-                Pranic Healing is an exact science that requires deep understanding, personal dedication, and meticulous technical precision. Therefore, our workshops are taught exclusively by licensed Senior Instructors recognized by the international governing bodies of Pranic Healing.
-              </p>
-              <p>
-                Our lead educational coordinators have spent decades studying subtle energy structures, assisting thousands of students worldwide. According to core regulations, they maintain strict adherence to the standardized techniques established by Grandmaster Choa Kok Sui—ensuring that every sweep, scan, and project is taught safely and effectively.
+              <p className="font-serif italic text-lg sm:text-xl text-[#1E1B4B] leading-relaxed border-b border-[#1E1B4B]/5 pb-6">
+                Workshops are led exclusively by licensed Senior Instructors holding international authorizations. Our instruction maintains strict adherence to standardized techniques, assuring safe and practical mastery.
               </p>
 
               {/* Professional standards checkpoints */}
-              <div className="space-y-4 pt-6 border-t border-[#1E1B4B]/5">
+              <div className="space-y-4 pt-4">
                 <div className="flex items-start gap-3">
                   <div className="text-[#0f766e] shrink-0 mt-1">
                     <ShieldCheck className="w-5 h-5" />

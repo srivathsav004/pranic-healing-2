@@ -67,11 +67,8 @@ export function AboutPranicHealing() {
             </Reveal>
 
             <Reveal delay={0.2} yOffset={20} className="space-y-6 text-slate-600 font-sans text-sm sm:text-base leading-relaxed">
-              <p>
-                Pranic Healing describes a complete, logical system of energy-based methods synthesized, tested, and formulated by Grandmaster Choa Kok Sui. Unlike abstract wellness practices, this system relies on systematic mechanics, clear definitions, and replicable steps that anyone can learn to execute.
-              </p>
-              <p>
-                The cornerstone of the teaching is that the human body has an innate capacity to self-rebuild. This natural recovery rate is accelerated by cleaning away congested or stagnant life forces and redirecting fresh, clean prana to the energetic pathways (meridians and chakras).
+              <p className="font-serif italic text-lg sm:text-xl text-[#1E1B4B] leading-relaxed border-b border-[#1E1B4B]/5 pb-6">
+                Pranic Healing is an energy hygiene system synthesized by Grandmaster Choa Kok Sui. Through structured, non-touch steps, practitioners learn to assess, purify, and augment the subtle vital field.
               </p>
 
               {/* Core Attributes */}

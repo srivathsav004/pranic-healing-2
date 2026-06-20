@@ -2,10 +2,8 @@ import * as React from 'react';
 import { Navbar } from '@/components/shared/Navbar';
 import { Hero } from '@/components/landing/Hero';
 import { AboutPranicHealing } from '@/components/landing/AboutPranicHealing';
-import { KeyPrinciples } from '@/components/landing/KeyPrinciples';
 import { WorkshopHighlights } from '@/components/landing/WorkshopHighlights';
 import { Instructor } from '@/components/landing/Instructor';
-import { Benefits } from '@/components/landing/Benefits';
 import { TestimonialsPreview } from '@/components/landing/TestimonialsPreview';
 import { FAQ } from '@/components/landing/FAQ';
 import { CTA } from '@/components/landing/CTA';
@@ -26,25 +24,19 @@ export default function Home() {
         {/* Module 2: The Foundational Science Overview */}
         <AboutPranicHealing />
         
-        {/* Module 3: Six Core Pillars Grid */}
-        <KeyPrinciples />
-        
-        {/* Module 4: Standard Global Curriculum Interactive Matrix */}
+        {/* Module 3: Standard Global Curriculum Interactive Matrix */}
         <WorkshopHighlights />
         
-        {/* Module 5: Accredited Facilitator Narrative */}
+        {/* Module 4: Accredited Facilitator Narrative */}
         <Instructor />
         
-        {/* Module 6: Practical Health/Performance Merits */}
-        <Benefits />
-        
-        {/* Module 7: Certified Professional Feedbacks */}
+        {/* Module 5: Certified Professional Feedbacks */}
         <TestimonialsPreview />
         
-        {/* Module 8: Expandable Inquiry Archive */}
+        {/* Module 6: Expandable Inquiry Archive */}
         <FAQ />
         
-        {/* Module 9: Functional Integrated Contact/Admission Panel */}
+        {/* Module 7: Functional Integrated Contact/Admission Panel */}
         <CTA />
         
       </main>

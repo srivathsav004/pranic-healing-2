@@ -13,10 +13,8 @@ interface NavLink {
 
 const NAV_LINKS: NavLink[] = [
   { label: 'Teachings', href: '#about' },
-  { label: 'Principles', href: '#principles' },
   { label: 'Workshops', href: '#workshops' },
-  { label: 'Instructor', href: '#instructor' },
-  { label: 'Benefits', href: '#benefits' },
+  { label: 'Licensed Faculty', href: '#instructor' },
   { label: 'FAQ', href: '#faq' },
 ];
 
