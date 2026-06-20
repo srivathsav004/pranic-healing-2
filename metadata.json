@@ -1,0 +1,6 @@
+{
+  "name": "Pranic Healing Institute",
+  "description": "A premium, professional, and educational portal dedicated to Pranic Healing workshops, courses, core principles, and wellness teachings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
