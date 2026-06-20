@@ -131,13 +131,13 @@ export function Hero() {
             </div>
 
             {/* Little floating detail card */}
-            <div className="absolute -left-6 bottom-16 bg-[#FAF8F3] border border-[#1E1B4B]/15 p-4 rounded-sm shadow-xl hidden sm:flex items-center gap-3 max-w-[200px]">
+            {/* <div className="absolute -left-6 bottom-16 bg-[#FAF8F3] border border-[#1E1B4B]/15 p-4 rounded-sm shadow-xl hidden sm:flex items-center gap-3 max-w-[200px]">
               <div className="w-3 h-3 rounded-full bg-[#0F766E] animate-ping shrink-0" />
               <div className="font-sans text-[11px] leading-snug">
                 <span className="font-semibold text-[#1E1B4B] block">Next Training Session</span>
                 <span className="text-slate-500">Registrations actively open</span>
               </div>
-            </div>
+            </div> */}
           </Reveal>
         </div>
 
