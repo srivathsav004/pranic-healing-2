@@ -65,7 +65,7 @@ export function WorkshopHighlights() {
               </div>
 
               {/* Extra Course Stats Table for Corporate Alignment */}
-              <div className="bg-[#1E1B4B] text-[#FAF8F3] p-6 rounded-sm mt-6 border border-[#FAF8F3]/5">
+              {/* <div className="bg-[#1E1B4B] text-[#FAF8F3] p-6 rounded-sm mt-6 border border-[#FAF8F3]/5">
                 <h4 className="font-serif text-sm font-semibold text-[#D4AF37] uppercase tracking-wider mb-4 flex items-center gap-1.5">
                   <Sparkles className="w-4 h-4 shrink-0" />
                   <span>Curriculum Integrity</span>
@@ -84,7 +84,7 @@ export function WorkshopHighlights() {
                     <span className="font-medium">Original Choa Kok Sui Materials</span>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             {/* Core Contents Column (Right on Desktop) */}
